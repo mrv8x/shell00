@@ -1,0 +1,5 @@
+Credentials cache: API:D41881BB-6A94-483F-8EEC-ADA41503AC0C
+        Principal: hbendani@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 15:42:46 2021  Aug  3 01:42:22 2021  krbtgt/1337.MA@1337.MA
